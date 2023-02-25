@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Dindoucha/FM_Preview_Card_Component](https://github.com/Dindoucha/FM_Preview_Card_Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://main--jade-moxie-fcb183.netlify.app/](https://main--jade-moxie-fcb183.netlify.app/)
 
 ## My process
 
